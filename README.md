@@ -21,9 +21,6 @@
 <a href="https://stackoverflow.com/users/atharva-patilpate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="atharva-patilpate" height="30" width="40" /></a>
 <a href="https://instagram.com/thisisathpat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thisisathpat" height="30" width="40" /></a>
 <a href="https://medium.com/@atharva-patilpate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@atharva-patilpate" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/athpat" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="athpat" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/athpat4502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="athpat4502" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/atharvapatilpate" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="atharvapatilpate" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
