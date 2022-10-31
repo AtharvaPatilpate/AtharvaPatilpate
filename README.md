@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently exploring **Web Development, App Development and Blockchain Development**
 
-- 📫 How to reach me **atharva.patilpate@gmail.com**
+- 📫 Reach me at **atharva.patilpate@gmail.com**
 
 <h3>Github Stats</h3>
 
